@@ -1,2 +1,2 @@
 # GrammarLessonPassiveActivePartTwo
- Grammar lesson explaining how to make active voice sentences using subjects, verbs, and objects
+ Grammar lesson explaining how to tell the difference between passive and active sentences.
