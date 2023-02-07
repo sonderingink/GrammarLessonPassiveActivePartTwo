@@ -49,7 +49,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="free" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1603,7 +1603,6 @@
         <slidelink slideid="_player.68iLZr3EkIw" displaytext="Determining the difference between passive and active voice" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.68iLZr3EkIw.6l9b99FGoPP" displaytext="Objective 2" expand="false" type="slide" />
-            <slidelink slideid="_player.68iLZr3EkIw.6jnmHW5RCzv" displaytext="Time to practice" expand="false" type="slide" />
             <slidelink slideid="_player.68iLZr3EkIw.6GLZw85fgr1" displaytext="Passive Voice Sentence" expand="false" type="slide" />
             <slidelink slideid="_player.68iLZr3EkIw.5gKFMuBVAgP" displaytext="Where&amp;apos;s the OBJECT?" expand="false" type="slide" />
             <slidelink slideid="_player.68iLZr3EkIw.62IgsP6yGsw" displaytext="Where&amp;apos;s the VERB?" expand="false" type="slide" />
@@ -1611,6 +1610,7 @@
             <slidelink slideid="_player.68iLZr3EkIw.6lHIgZLfUwk" displaytext="Check for Understanding" expand="false" type="slide" />
             <slidelink slideid="_player.68iLZr3EkIw.5YNhUVrgNOM" displaytext="Understanding the Effect of Passive Voice" expand="false" type="slide" />
             <slidelink slideid="_player.68iLZr3EkIw.6JnIWKxVkqI" displaytext="Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.68iLZr3EkIw.6jnmHW5RCzv" displaytext="Time to practice" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6Fa4XYrD7Nv" displaytext="Active vs. Passive Voice Practice" expand="true" type="slide">
